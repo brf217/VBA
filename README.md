@@ -1,3 +1,3 @@
 # VBA
 
-* VBA snippets that are helpful for coding Excel
+* VBA snippets that are helpful for coding Excel macros
